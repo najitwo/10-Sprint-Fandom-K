@@ -35,5 +35,9 @@ module.exports = {
     ],
     'react/react-in-jsx-scope': 'off',
     'react/self-closing-comp': 'off',
+    'react/prop-types': 'off',
+    'react/jsx-fragments': 'off',
+    'no-unused-vars': 'warn',
+    'no-console': 'warn',
   },
 };
