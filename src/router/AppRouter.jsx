@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import LandingPage from '@/pages/LandingPage';
 
 const AppRouter = () => {
+  let a = 1;
   return (
     <Router>
       <Routes>
